@@ -1,0 +1,10 @@
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Vectors/obj/Debug/netcoreapp2.0/Vectors.csproj.CoreCompileInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Vectors/obj/Debug/netcoreapp2.0/Vectors.AssemblyInfoInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Vectors/obj/Debug/netcoreapp2.0/Vectors.AssemblyInfo.cs
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Vectors/bin/Debug/netcoreapp2.0/Vectors.deps.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Vectors/bin/Debug/netcoreapp2.0/Vectors.runtimeconfig.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Vectors/bin/Debug/netcoreapp2.0/Vectors.runtimeconfig.dev.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Vectors/bin/Debug/netcoreapp2.0/Vectors.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Vectors/bin/Debug/netcoreapp2.0/Vectors.pdb
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Vectors/obj/Debug/netcoreapp2.0/Vectors.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Vectors/obj/Debug/netcoreapp2.0/Vectors.pdb

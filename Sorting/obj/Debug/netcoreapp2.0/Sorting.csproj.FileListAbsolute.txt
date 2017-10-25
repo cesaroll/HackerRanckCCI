@@ -1,0 +1,10 @@
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Sorting/obj/Debug/netcoreapp2.0/Sorting.csproj.CoreCompileInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Sorting/obj/Debug/netcoreapp2.0/Sorting.AssemblyInfoInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Sorting/obj/Debug/netcoreapp2.0/Sorting.AssemblyInfo.cs
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Sorting/bin/Debug/netcoreapp2.0/Sorting.deps.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Sorting/bin/Debug/netcoreapp2.0/Sorting.runtimeconfig.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Sorting/bin/Debug/netcoreapp2.0/Sorting.runtimeconfig.dev.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Sorting/bin/Debug/netcoreapp2.0/Sorting.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Sorting/bin/Debug/netcoreapp2.0/Sorting.pdb
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Sorting/obj/Debug/netcoreapp2.0/Sorting.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Sorting/obj/Debug/netcoreapp2.0/Sorting.pdb

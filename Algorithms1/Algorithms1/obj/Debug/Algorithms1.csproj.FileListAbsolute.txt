@@ -1,0 +1,6 @@
+C:\Users\lopezce\GoogleDrive\Sync\workspaces\algorithms\Algorithms1\Algorithms1\bin\Debug\Algorithms1.exe.config
+C:\Users\lopezce\GoogleDrive\Sync\workspaces\algorithms\Algorithms1\Algorithms1\bin\Debug\Algorithms1.exe
+C:\Users\lopezce\GoogleDrive\Sync\workspaces\algorithms\Algorithms1\Algorithms1\bin\Debug\Algorithms1.pdb
+C:\Users\lopezce\GoogleDrive\Sync\workspaces\algorithms\Algorithms1\Algorithms1\obj\Debug\Algorithms1.csprojResolveAssemblyReference.cache
+C:\Users\lopezce\GoogleDrive\Sync\workspaces\algorithms\Algorithms1\Algorithms1\obj\Debug\Algorithms1.exe
+C:\Users\lopezce\GoogleDrive\Sync\workspaces\algorithms\Algorithms1\Algorithms1\obj\Debug\Algorithms1.pdb

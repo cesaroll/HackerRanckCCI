@@ -1,0 +1,30 @@
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Graphs/obj/Debug/netcoreapp2.0/Graphs.csproj.CoreCompileInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Graphs/obj/Debug/netcoreapp2.0/Graphs.AssemblyInfoInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Graphs/obj/Debug/netcoreapp2.0/Graphs.AssemblyInfo.cs
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Graphs/bin/Debug/netcoreapp2.0/Graphs.deps.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Graphs/bin/Debug/netcoreapp2.0/Graphs.runtimeconfig.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Graphs/bin/Debug/netcoreapp2.0/Graphs.runtimeconfig.dev.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Graphs/bin/Debug/netcoreapp2.0/Graphs.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Graphs/bin/Debug/netcoreapp2.0/Graphs.pdb
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Graphs/obj/Debug/netcoreapp2.0/Graphs.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Graphs/obj/Debug/netcoreapp2.0/Graphs.pdb
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/DataStructures/Graphs/bin/Debug/netcoreapp2.0/Graphs.deps.json
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/DataStructures/Graphs/bin/Debug/netcoreapp2.0/Graphs.runtimeconfig.json
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/DataStructures/Graphs/bin/Debug/netcoreapp2.0/Graphs.runtimeconfig.dev.json
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/DataStructures/Graphs/bin/Debug/netcoreapp2.0/Graphs.dll
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/DataStructures/Graphs/bin/Debug/netcoreapp2.0/Graphs.pdb
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/DataStructures/Graphs/obj/Debug/netcoreapp2.0/Graphs.csproj.CoreCompileInputs.cache
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/DataStructures/Graphs/obj/Debug/netcoreapp2.0/Graphs.AssemblyInfoInputs.cache
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/DataStructures/Graphs/obj/Debug/netcoreapp2.0/Graphs.AssemblyInfo.cs
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/DataStructures/Graphs/obj/Debug/netcoreapp2.0/Graphs.dll
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/DataStructures/Graphs/obj/Debug/netcoreapp2.0/Graphs.pdb
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Graphs/bin/Debug/netcoreapp2.0/Graphs.deps.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Graphs/bin/Debug/netcoreapp2.0/Graphs.runtimeconfig.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Graphs/bin/Debug/netcoreapp2.0/Graphs.runtimeconfig.dev.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Graphs/bin/Debug/netcoreapp2.0/Graphs.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Graphs/bin/Debug/netcoreapp2.0/Graphs.pdb
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Graphs/obj/Debug/netcoreapp2.0/Graphs.csproj.CoreCompileInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Graphs/obj/Debug/netcoreapp2.0/Graphs.AssemblyInfoInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Graphs/obj/Debug/netcoreapp2.0/Graphs.AssemblyInfo.cs
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Graphs/obj/Debug/netcoreapp2.0/Graphs.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Graphs/obj/Debug/netcoreapp2.0/Graphs.pdb

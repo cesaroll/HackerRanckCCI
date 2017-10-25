@@ -1,0 +1,20 @@
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/DataStructures/Tries/obj/Debug/netcoreapp2.0/Tries.csproj.CoreCompileInputs.cache
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/DataStructures/Tries/obj/Debug/netcoreapp2.0/Tries.AssemblyInfoInputs.cache
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/DataStructures/Tries/obj/Debug/netcoreapp2.0/Tries.AssemblyInfo.cs
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/DataStructures/Tries/bin/Debug/netcoreapp2.0/Tries.deps.json
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/DataStructures/Tries/bin/Debug/netcoreapp2.0/Tries.runtimeconfig.json
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/DataStructures/Tries/bin/Debug/netcoreapp2.0/Tries.runtimeconfig.dev.json
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/DataStructures/Tries/bin/Debug/netcoreapp2.0/Tries.dll
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/DataStructures/Tries/bin/Debug/netcoreapp2.0/Tries.pdb
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/DataStructures/Tries/obj/Debug/netcoreapp2.0/Tries.dll
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/DataStructures/Tries/obj/Debug/netcoreapp2.0/Tries.pdb
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Tries/obj/Debug/netcoreapp2.0/Tries.csproj.CoreCompileInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Tries/obj/Debug/netcoreapp2.0/Tries.AssemblyInfoInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Tries/obj/Debug/netcoreapp2.0/Tries.AssemblyInfo.cs
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Tries/obj/Debug/netcoreapp2.0/Tries.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Tries/obj/Debug/netcoreapp2.0/Tries.pdb
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Tries/bin/Debug/netcoreapp2.0/Tries.deps.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Tries/bin/Debug/netcoreapp2.0/Tries.runtimeconfig.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Tries/bin/Debug/netcoreapp2.0/Tries.runtimeconfig.dev.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Tries/bin/Debug/netcoreapp2.0/Tries.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Tries/bin/Debug/netcoreapp2.0/Tries.pdb

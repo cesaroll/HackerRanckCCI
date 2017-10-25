@@ -1,0 +1,10 @@
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Search/obj/Debug/netcoreapp2.0/Search.csproj.CoreCompileInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Search/obj/Debug/netcoreapp2.0/Search.AssemblyInfoInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Search/obj/Debug/netcoreapp2.0/Search.AssemblyInfo.cs
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Search/bin/Debug/netcoreapp2.0/Search.deps.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Search/bin/Debug/netcoreapp2.0/Search.runtimeconfig.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Search/bin/Debug/netcoreapp2.0/Search.runtimeconfig.dev.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Search/bin/Debug/netcoreapp2.0/Search.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Search/bin/Debug/netcoreapp2.0/Search.pdb
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Search/obj/Debug/netcoreapp2.0/Search.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Search/obj/Debug/netcoreapp2.0/Search.pdb

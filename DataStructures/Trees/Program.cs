@@ -11,8 +11,26 @@ namespace Trees {
 
             //IsBinarySearchTreeTest();
 
-            NodeDistanceTree_Tests();
+            //NodeDistanceTree_Tests();
     
+            //ConvertTreeToDLL(); TODO: Not working yet
+
+        }
+
+        private static void ConvertTreeToDLL(){
+
+            var tree = new Trees.TeeToDLL.Tree();
+            var array = new int[] {10, 12, 15, 25, 30, 36};
+
+            foreach(var item in array)
+                tree.Insert(item);
+
+            Trees.TeeToDLL.Node root = tree.ConvertToDLL();
+
+            while(root != null) {
+                Console.Write($"{root.Data} ");
+                root = root.Right;
+            }
 
         }
 

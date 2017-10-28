@@ -94,6 +94,7 @@ namespace Trees
             while(hasLeftChild(index))
             {
                 int childindex = getLeftChildIndex(index);
+                
                 if(hasRightChild(index) && LT(rightChild(index), leftChild(index)) )
                 {
                     childindex = getRightChildIndex(index);

@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Trees/Trees.csproj",
-      "projectName": "Trees",
-      "projectPath": "/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Trees/Trees.csproj",
+      "projectUniqueName": "/Users/cesarl/Google Drive/Sync/workspaces/algorithms/GetMax3/GetMax3.csproj",
+      "projectName": "GetMax3",
+      "projectPath": "/Users/cesarl/Google Drive/Sync/workspaces/algorithms/GetMax3/GetMax3.csproj",
       "packagesPath": "/Users/cesarl/.nuget/packages/",
-      "outputPath": "/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Trees/obj/",
+      "outputPath": "/Users/cesarl/Google Drive/Sync/workspaces/algorithms/GetMax3/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

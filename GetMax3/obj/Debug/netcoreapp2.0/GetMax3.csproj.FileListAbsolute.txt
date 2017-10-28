@@ -1,0 +1,10 @@
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/GetMax3/bin/Debug/netcoreapp2.0/GetMax3.deps.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/GetMax3/bin/Debug/netcoreapp2.0/GetMax3.runtimeconfig.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/GetMax3/bin/Debug/netcoreapp2.0/GetMax3.runtimeconfig.dev.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/GetMax3/bin/Debug/netcoreapp2.0/GetMax3.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/GetMax3/bin/Debug/netcoreapp2.0/GetMax3.pdb
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/GetMax3/obj/Debug/netcoreapp2.0/GetMax3.csproj.CoreCompileInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/GetMax3/obj/Debug/netcoreapp2.0/GetMax3.AssemblyInfoInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/GetMax3/obj/Debug/netcoreapp2.0/GetMax3.AssemblyInfo.cs
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/GetMax3/obj/Debug/netcoreapp2.0/GetMax3.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/GetMax3/obj/Debug/netcoreapp2.0/GetMax3.pdb

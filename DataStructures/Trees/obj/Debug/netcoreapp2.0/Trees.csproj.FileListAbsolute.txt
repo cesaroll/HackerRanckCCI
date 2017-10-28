@@ -18,3 +18,13 @@
 /mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/DataStructures/Trees/bin/Debug/netcoreapp2.0/Trees.runtimeconfig.dev.json
 /mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/DataStructures/Trees/bin/Debug/netcoreapp2.0/Trees.dll
 /mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/DataStructures/Trees/bin/Debug/netcoreapp2.0/Trees.pdb
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Trees/obj/Debug/netcoreapp2.0/Trees.csproj.CoreCompileInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Trees/obj/Debug/netcoreapp2.0/Trees.AssemblyInfoInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Trees/obj/Debug/netcoreapp2.0/Trees.AssemblyInfo.cs
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Trees/obj/Debug/netcoreapp2.0/Trees.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Trees/obj/Debug/netcoreapp2.0/Trees.pdb
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Trees/bin/Debug/netcoreapp2.0/Trees.deps.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Trees/bin/Debug/netcoreapp2.0/Trees.runtimeconfig.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Trees/bin/Debug/netcoreapp2.0/Trees.runtimeconfig.dev.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Trees/bin/Debug/netcoreapp2.0/Trees.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Trees/bin/Debug/netcoreapp2.0/Trees.pdb

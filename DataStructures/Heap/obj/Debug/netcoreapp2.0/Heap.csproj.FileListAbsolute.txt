@@ -1,0 +1,10 @@
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Heap/bin/Debug/netcoreapp2.0/Heap.deps.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Heap/bin/Debug/netcoreapp2.0/Heap.runtimeconfig.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Heap/bin/Debug/netcoreapp2.0/Heap.runtimeconfig.dev.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Heap/bin/Debug/netcoreapp2.0/Heap.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Heap/bin/Debug/netcoreapp2.0/Heap.pdb
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Heap/obj/Debug/netcoreapp2.0/Heap.csproj.CoreCompileInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Heap/obj/Debug/netcoreapp2.0/Heap.AssemblyInfoInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Heap/obj/Debug/netcoreapp2.0/Heap.AssemblyInfo.cs
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Heap/obj/Debug/netcoreapp2.0/Heap.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Heap/obj/Debug/netcoreapp2.0/Heap.pdb

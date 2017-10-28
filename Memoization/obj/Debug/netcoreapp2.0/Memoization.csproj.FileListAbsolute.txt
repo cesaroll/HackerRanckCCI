@@ -1,0 +1,10 @@
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Memoization/bin/Debug/netcoreapp2.0/Memoization.deps.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Memoization/bin/Debug/netcoreapp2.0/Memoization.runtimeconfig.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Memoization/bin/Debug/netcoreapp2.0/Memoization.runtimeconfig.dev.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Memoization/bin/Debug/netcoreapp2.0/Memoization.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Memoization/bin/Debug/netcoreapp2.0/Memoization.pdb
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Memoization/obj/Debug/netcoreapp2.0/Memoization.csproj.CoreCompileInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Memoization/obj/Debug/netcoreapp2.0/Memoization.AssemblyInfoInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Memoization/obj/Debug/netcoreapp2.0/Memoization.AssemblyInfo.cs
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Memoization/obj/Debug/netcoreapp2.0/Memoization.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/Memoization/obj/Debug/netcoreapp2.0/Memoization.pdb

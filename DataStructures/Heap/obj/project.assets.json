@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Trees/Trees.csproj",
-      "projectName": "Trees",
-      "projectPath": "/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Trees/Trees.csproj",
+      "projectUniqueName": "/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Heap/Heap.csproj",
+      "projectName": "Heap",
+      "projectPath": "/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Heap/Heap.csproj",
       "packagesPath": "/Users/cesarl/.nuget/packages/",
-      "outputPath": "/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Trees/obj/",
+      "outputPath": "/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Heap/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -1,0 +1,10 @@
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/01_ArraysAndStrings/obj/Debug/netcoreapp2.0/01_ArraysAndStrings.csproj.CoreCompileInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/01_ArraysAndStrings/obj/Debug/netcoreapp2.0/01_ArraysAndStrings.AssemblyInfoInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/01_ArraysAndStrings/obj/Debug/netcoreapp2.0/01_ArraysAndStrings.AssemblyInfo.cs
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/01_ArraysAndStrings/bin/Debug/netcoreapp2.0/01_ArraysAndStrings.deps.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/01_ArraysAndStrings/bin/Debug/netcoreapp2.0/01_ArraysAndStrings.runtimeconfig.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/01_ArraysAndStrings/bin/Debug/netcoreapp2.0/01_ArraysAndStrings.runtimeconfig.dev.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/01_ArraysAndStrings/bin/Debug/netcoreapp2.0/01_ArraysAndStrings.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/01_ArraysAndStrings/bin/Debug/netcoreapp2.0/01_ArraysAndStrings.pdb
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/01_ArraysAndStrings/obj/Debug/netcoreapp2.0/01_ArraysAndStrings.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/01_ArraysAndStrings/obj/Debug/netcoreapp2.0/01_ArraysAndStrings.pdb

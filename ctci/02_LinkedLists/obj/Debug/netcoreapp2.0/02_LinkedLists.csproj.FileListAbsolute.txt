@@ -1,0 +1,10 @@
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/02_LinkedLists/bin/Debug/netcoreapp2.0/02_LinkedLists.deps.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/02_LinkedLists/bin/Debug/netcoreapp2.0/02_LinkedLists.runtimeconfig.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/02_LinkedLists/bin/Debug/netcoreapp2.0/02_LinkedLists.runtimeconfig.dev.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/02_LinkedLists/bin/Debug/netcoreapp2.0/02_LinkedLists.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/02_LinkedLists/bin/Debug/netcoreapp2.0/02_LinkedLists.pdb
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/02_LinkedLists/obj/Debug/netcoreapp2.0/02_LinkedLists.csproj.CoreCompileInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/02_LinkedLists/obj/Debug/netcoreapp2.0/02_LinkedLists.AssemblyInfoInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/02_LinkedLists/obj/Debug/netcoreapp2.0/02_LinkedLists.AssemblyInfo.cs
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/02_LinkedLists/obj/Debug/netcoreapp2.0/02_LinkedLists.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/02_LinkedLists/obj/Debug/netcoreapp2.0/02_LinkedLists.pdb

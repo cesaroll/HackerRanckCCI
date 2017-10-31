@@ -1,0 +1,10 @@
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/03_StacksAndQueues/bin/Debug/netcoreapp2.0/03_StacksAndQueues.deps.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/03_StacksAndQueues/bin/Debug/netcoreapp2.0/03_StacksAndQueues.runtimeconfig.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/03_StacksAndQueues/bin/Debug/netcoreapp2.0/03_StacksAndQueues.runtimeconfig.dev.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/03_StacksAndQueues/bin/Debug/netcoreapp2.0/03_StacksAndQueues.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/03_StacksAndQueues/bin/Debug/netcoreapp2.0/03_StacksAndQueues.pdb
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/03_StacksAndQueues/obj/Debug/netcoreapp2.0/03_StacksAndQueues.csproj.CoreCompileInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/03_StacksAndQueues/obj/Debug/netcoreapp2.0/03_StacksAndQueues.AssemblyInfoInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/03_StacksAndQueues/obj/Debug/netcoreapp2.0/03_StacksAndQueues.AssemblyInfo.cs
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/03_StacksAndQueues/obj/Debug/netcoreapp2.0/03_StacksAndQueues.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/ctci/03_StacksAndQueues/obj/Debug/netcoreapp2.0/03_StacksAndQueues.pdb

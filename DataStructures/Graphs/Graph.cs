@@ -16,7 +16,7 @@ namespace Graphs {
             if(!nodeLookup.TryGetValue(id, out Node node)) {
                 nodeLookup[id] = new Node(id);
             }
-        }
+        }                                                                      m
 
         public void AddEdge(int source, int destination) {
             var s = GetNode(source);

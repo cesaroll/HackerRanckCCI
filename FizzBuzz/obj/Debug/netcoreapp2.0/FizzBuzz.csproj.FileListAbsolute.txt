@@ -1,0 +1,10 @@
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/FizzBuzz/obj/Debug/netcoreapp2.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/FizzBuzz/obj/Debug/netcoreapp2.0/FizzBuzz.AssemblyInfoInputs.cache
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/FizzBuzz/obj/Debug/netcoreapp2.0/FizzBuzz.AssemblyInfo.cs
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/FizzBuzz/bin/Debug/netcoreapp2.0/FizzBuzz.deps.json
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/FizzBuzz/bin/Debug/netcoreapp2.0/FizzBuzz.runtimeconfig.json
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/FizzBuzz/bin/Debug/netcoreapp2.0/FizzBuzz.runtimeconfig.dev.json
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/FizzBuzz/bin/Debug/netcoreapp2.0/FizzBuzz.dll
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/FizzBuzz/bin/Debug/netcoreapp2.0/FizzBuzz.pdb
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/FizzBuzz/obj/Debug/netcoreapp2.0/FizzBuzz.dll
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/FizzBuzz/obj/Debug/netcoreapp2.0/FizzBuzz.pdb

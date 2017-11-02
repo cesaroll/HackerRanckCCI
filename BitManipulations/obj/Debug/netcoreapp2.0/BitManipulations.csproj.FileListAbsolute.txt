@@ -1,0 +1,10 @@
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/BitManipulations/bin/Debug/netcoreapp2.0/BitManipulations.deps.json
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/BitManipulations/bin/Debug/netcoreapp2.0/BitManipulations.runtimeconfig.json
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/BitManipulations/bin/Debug/netcoreapp2.0/BitManipulations.runtimeconfig.dev.json
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/BitManipulations/bin/Debug/netcoreapp2.0/BitManipulations.dll
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/BitManipulations/bin/Debug/netcoreapp2.0/BitManipulations.pdb
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/BitManipulations/obj/Debug/netcoreapp2.0/BitManipulations.csproj.CoreCompileInputs.cache
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/BitManipulations/obj/Debug/netcoreapp2.0/BitManipulations.AssemblyInfoInputs.cache
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/BitManipulations/obj/Debug/netcoreapp2.0/BitManipulations.AssemblyInfo.cs
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/BitManipulations/obj/Debug/netcoreapp2.0/BitManipulations.dll
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/BitManipulations/obj/Debug/netcoreapp2.0/BitManipulations.pdb

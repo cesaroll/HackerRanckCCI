@@ -1,0 +1,10 @@
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Trees/LowestCommonAncestor/obj/Debug/netcoreapp2.0/LowestCommonAncestor.csproj.CoreCompileInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Trees/LowestCommonAncestor/obj/Debug/netcoreapp2.0/LowestCommonAncestor.AssemblyInfoInputs.cache
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Trees/LowestCommonAncestor/obj/Debug/netcoreapp2.0/LowestCommonAncestor.AssemblyInfo.cs
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Trees/LowestCommonAncestor/bin/Debug/netcoreapp2.0/LowestCommonAncestor.deps.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Trees/LowestCommonAncestor/bin/Debug/netcoreapp2.0/LowestCommonAncestor.runtimeconfig.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Trees/LowestCommonAncestor/bin/Debug/netcoreapp2.0/LowestCommonAncestor.runtimeconfig.dev.json
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Trees/LowestCommonAncestor/bin/Debug/netcoreapp2.0/LowestCommonAncestor.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Trees/LowestCommonAncestor/bin/Debug/netcoreapp2.0/LowestCommonAncestor.pdb
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Trees/LowestCommonAncestor/obj/Debug/netcoreapp2.0/LowestCommonAncestor.dll
+/Users/cesarl/Google Drive/Sync/workspaces/algorithms/DataStructures/Trees/LowestCommonAncestor/obj/Debug/netcoreapp2.0/LowestCommonAncestor.pdb

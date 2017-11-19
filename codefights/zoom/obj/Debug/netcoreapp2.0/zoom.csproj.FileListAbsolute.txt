@@ -1,0 +1,10 @@
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/codefights/zoom/obj/Debug/netcoreapp2.0/zoom.csproj.CoreCompileInputs.cache
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/codefights/zoom/obj/Debug/netcoreapp2.0/zoom.AssemblyInfoInputs.cache
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/codefights/zoom/obj/Debug/netcoreapp2.0/zoom.AssemblyInfo.cs
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/codefights/zoom/bin/Debug/netcoreapp2.0/zoom.deps.json
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/codefights/zoom/bin/Debug/netcoreapp2.0/zoom.runtimeconfig.json
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/codefights/zoom/bin/Debug/netcoreapp2.0/zoom.runtimeconfig.dev.json
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/codefights/zoom/bin/Debug/netcoreapp2.0/zoom.dll
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/codefights/zoom/bin/Debug/netcoreapp2.0/zoom.pdb
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/codefights/zoom/obj/Debug/netcoreapp2.0/zoom.dll
+/mnt/c/Users/lopezce/GoogleDrive/Sync/workspaces/algorithms/codefights/zoom/obj/Debug/netcoreapp2.0/zoom.pdb
